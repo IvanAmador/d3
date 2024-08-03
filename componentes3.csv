@@ -1,4 +1,4 @@
-text,nome,categoria,descricao
+codigo,nome,categoria,descricao
 "from crewai import Agent  # type: ignore
 
 from langflow.custom import Component
